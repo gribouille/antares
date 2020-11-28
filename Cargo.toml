@@ -1,0 +1,14 @@
+[package]
+name = "antares"
+version = "0.1.0"
+authors = ["Gribouille <gribouille.git@ovhcloud.com"]
+edition = "2018"
+license-file = "LICENSE"
+description = "antares description"
+homepage = "https://github.com/gribouille/antares"
+repository = "https://github.com/gribouille/antares"
+readme = "README.md"
+keywords = ["abcd"]
+categories = ["test"]
+
+[dependencies]
